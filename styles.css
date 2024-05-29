@@ -1,0 +1,19 @@
+h1, h2 {
+    color: red; 
+    font-family: Impact, sans-serif;
+    font-size: larger;
+}
+
+html {
+    font-family: Georgia, serif;
+    font-size: large;
+}
+
+.container{
+    text-align: center;
+}
+
+.paragraph{
+    text-align: left;
+    margin-left: 32%;
+}
